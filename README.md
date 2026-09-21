@@ -63,6 +63,3 @@ ProjectSettings/       Unity project configuration
 
 - First-time or fresh clones may hit a `CS0006: Metadata file ... could not be found` error related to `com.unity.collab-proxy` (Unity's Plastic/Collab package). If this happens, either let Unity fully regenerate the `Library` folder on first open, or remove the `com.unity.collab-proxy` line from `Packages/manifest.json` if you don't use Unity Version Control.
 
-## License
-
-No license specified yet — add one (e.g. MIT) if you intend for others to reuse this code.
