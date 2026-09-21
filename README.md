@@ -2,7 +2,12 @@
 
 A 2D side-scrolling shooter built in Unity, where you control **RoboMan**, aim and fire with the mouse, and fight off crusher-type enemies that patrol the level.
 
+
+
+
+
 ## Gameplay
+<img width="635" height="356" alt="Screenshot 2026-09-21 at 12 23 28 PM" src="https://github.com/user-attachments/assets/b1d6b48b-4744-4a27-939a-f1ff62d82ca9" />
 
 - **Move** with the horizontal input axis (A/D or arrow keys) — RoboMan is clamped to a fixed horizontal play area and flips to face the direction he's moving/aiming.
 - **Jump** with the Jump input (Space by default), only while grounded.
