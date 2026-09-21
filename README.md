@@ -1,9 +1,8 @@
 # Robomania
 
+**Play Robotmania in your browser:** https://bitabigdelu.itch.io/robotmania
+
 A 2D side-scrolling shooter built in Unity, where you control **RoboMan**, aim and fire with the mouse, and fight off crusher-type enemies that patrol the level.
-
-
-
 
 
 ## Gameplay
